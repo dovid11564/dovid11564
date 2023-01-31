@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**dovid11564/dovid11564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ My name is Dovid Edelkopf. 
+ 
+ I'm a recent graduate from Flatiron's full stack engineering program, and I'm looking for my first position!
+ 
+ 🌎 I'm based in Brooklyn, New York.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dovid11564&theme=dark&background=#00FFFFFF)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovid11564&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
