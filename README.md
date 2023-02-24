@@ -2,7 +2,7 @@
 
  My name is Dovid Edelkopf. 
  
- I'm a recent graduate from Flatiron's full stack engineering program, and I'm looking for my first position!
+ I have a background in Software Engineering, although I currently work in Cyber Security
  
  🌎 I'm based in Brooklyn, New York.
 
