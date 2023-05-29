@@ -16,8 +16,8 @@
  
  🌎 I'm based in Brooklyn, New York. -->
 
-
- ![Dovid's Github Stats](https://github-readme-stats.vercel.app/api?username=dovid11564&count_private=true&show_icons=true&theme=tokyonight)
+<!-- 
+ ![Dovid's Github Stats](https://github-readme-stats.vercel.app/api?username=dovid11564&count_private=true&show_icons=true&theme=tokyonight) -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovid11564&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
