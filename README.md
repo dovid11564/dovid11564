@@ -8,7 +8,7 @@ I first decided to break into tech in August, 2022. Since then, I've attended Fl
 
 * 🌍  I'm based in Brooklyn, New York
 * ✉️  You can contact me at [dovidzedelkopf@gmail.com](mailto:dovidzedelkopf@gmail.com)
-* 🧠  I'm learning for my A+ certification
+* 🧠  I'm learning Node
 * 🤝  I'm open to collaborating on any webapp project!
 
 ### Skills
