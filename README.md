@@ -35,6 +35,5 @@ I first decided to break into tech in August, 2022. Since then, I've attended Fl
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dovid11564"><img src="https://github-readme-stats.vercel.app/api?username=dovid11564&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ef4444&icon_color=84cc16&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="dovid11564's GitHub stats" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovid11564)](https://github.com/dovid11564/github-readme-stats)
+<a href="http://www.github.com/dovid11564"><img src="https://github-readme-stats.vercel.app/api?username=dovid11564&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ef4444&icon_color=84cc16&bg_color=7f1d1d&hide_border=true&show_icons=true&hide_rank=true" alt="dovid11564's GitHub stats" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovid11564&hide=html&langs_count=5&layout=compact)
