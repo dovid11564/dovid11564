@@ -1,7 +1,7 @@
 Hi 👋 My name is Dovid Edelkopf
 ===============================
 
-Web Dev Extroidanaire!
+Web Dev Extraordinaire!
 --------------------
 
 I first decided to break into tech in August, 2022. Since then, I've attended Flatiron School and learned a smattering of full stack technologies including JavaScript, React, Ruby, and Rails. Following Flatiron, I did a brief apprenticeship at a SOC, igniting my passion for IT and Cybersecurity.
