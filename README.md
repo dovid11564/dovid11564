@@ -4,11 +4,11 @@ Hi 👋 My name is Dovid Edelkopf
 Engineer Extraordinaire!
 --------------------
 
-I first decided to break into tech in August, 2022. Since then, I've attended Flatiron School and learned a smattering of full stack technologies including JavaScript, React, Ruby, and Rails. Following Flatiron, I did a brief apprenticeship at a SOC, igniting my passion for IT and Cybersecurity.
+I first decided to break into tech in August, 2022. Since then, I've attended Flatiron School and learned a smattering of full stack technologies including JavaScript, React, Ruby, and Rails. Following Flatiron, I did a brief apprenticeship at a SOC, igniting my passion for IT and Cybersecurity. Since then, I've been working on freelance, open source, and personal projects in order to level up my game!
 
 * 🌍  I'm based in Brooklyn, New York
 * ✉️  You can contact me at [dovidzedelkopf@gmail.com](mailto:dovidzedelkopf@gmail.com)
-* 🧠  I'm learning Node
+* 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on any webapp project!
 
 ### Skills
